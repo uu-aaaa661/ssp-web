@@ -1,0 +1,37 @@
+.logoImg img{
+    width: 100%;
+    display: block;
+    border-radius: 15px;
+    margin: 0px auto;
+    
+}
+.titleDiv{
+    font-size: 1.5rem;
+    margin-left: 1rem;
+
+}
+.menu-picture{
+    width: 30px;
+    border-radius: 25px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.logout-pic{
+    width: 300px;
+    display: block;
+    border-radius: 15px;
+    margin:40px auto;
+}
+.register_bt{
+    width: auto;
+    display: block;
+    margin-top: 10px;
+    margin: 20px auto;
+    text-align: center;
+}
+.registerpic{
+    width: 500px;
+    display: block;
+    border-radius: 15px;
+    margin:40px auto;
+}
